@@ -3,3 +3,5 @@ Hello world.
 I am the three line.
 Git has a mutable index called stage.
 Git tracks changes of files.
+new
+the
