@@ -1,2 +1,2 @@
-init Hello
+Init Hello
 add author
