@@ -7,4 +7,4 @@ new
 the
 create a new branch is quick AND simple.
 
-no Fast forward
+no Fast forWard
