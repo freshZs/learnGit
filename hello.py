@@ -1,4 +1,4 @@
 Init Hello
-add author
+add Author
 exit=2
 add comment
